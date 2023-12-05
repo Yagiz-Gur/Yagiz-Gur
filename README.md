@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year Computer Engineering student at Cukurova University and I want be a forwardthinking<br>computer engineer. I'm working on image processing,deep learning and autonomous<br>driving at the Cyberova rover team as a team lead of software. I was a board member at the<br>computer society as well.I am volunteer instructor at python trainings. afterwards I have been<br>improving myself in the field of data analysis.
+I am a third-year Computer Engineering student at Cukurova University and I want be a forwardthinking<br>computer engineer. I'm working on image processing,deep learning and autonomous<br>driving at the Cyberova rover team as a team lead of software. I was a board member at the<br>computer society as well.I am volunteer instructor at python trainings. afterwards I have been<br>improving myself in the field of data analysis.
 
 
 ## 🌐 Socials:
